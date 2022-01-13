@@ -1,37 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Hancie123/NH-English-Dictionary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+NH English Dictionary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hancie123/NH-English-Dictionary/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you have embarked on a drive to learn an English language, you first and foremost need to have some linguistic resources at your fingertips, and by this, we mean a capable dictionary. If you happen to look for an English dictionary that works smoothly and helps you learn new words in the blink of an eye, the chances are your quest is complete.Â NH English DictionaryÂ  is a piece of software that does precisely this, and you may want to take a look at it. NH English Dictionary is an online dictionary. This application does not have its own database. It uses an online dictionary API to get the data. It is a lightweight and simple application that helps to fulfill the user's daily needs by providing meaning. Letâ€™s start by taking a glimpse of the programâ€™s user interface. It should be pointed out that a limited set of controls are included in it, which, from our point of view, is the natural choice if you want to focus on the learning process itself. It has a simple layout where you find the search box to search the meaning.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: hanciewanemphago@gmail.com
+Phone: 9825915122
