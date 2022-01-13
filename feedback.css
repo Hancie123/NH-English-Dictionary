@@ -1,0 +1,37 @@
+
+  .nav {list-style-type: none;
+    background-color: #333;
+    overflow:hidden;
+   }
+    
+li {
+        float:left;
+    }
+    
+li a {text-decoration: none;
+      text-align:center;
+      padding: 10px 16px;
+      display:block;
+      color:white;
+      margin: 20px 0;
+      border-radius: 3px;
+      border: none;
+      display: flex;
+    } 
+    
+li a:hover {background-color: blueviolet ;} 
+    
+.menu-btn {color: #fff;
+    font-size: 23px;
+    cursor: pointer
+    display:none;}
+  
+
+h2 {font-size: 30px;
+color: black;
+text-align: center;
+padding: 20px;
+background-color: thistle;}
+
+
+body {background-color: #4B4453;}
